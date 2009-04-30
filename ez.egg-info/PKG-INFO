@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: ez
+Version: 0.1dev
+Summary: The ez Web Framework
+Home-page: http://www.jpevans.com/software/ez
+Author: John Evans
+Author-email: john@jpevans.com
+License: LICENSE
+Description: A simple and compact yet powerful web framework for Google AppEngine.
+Keywords: web framework google appengine
+Platform: UNKNOWN

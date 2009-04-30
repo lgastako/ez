@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+ez/__init__.py
+ez.egg-info/PKG-INFO
+ez.egg-info/SOURCES.txt
+ez.egg-info/dependency_links.txt
+ez.egg-info/entry_points.txt
+ez.egg-info/top_level.txt
+ez.egg-info/zip-safe
