@@ -23,6 +23,6 @@ A simple and compact yet powerful web framework for Google AppEngine.""",
       entry_points="""
       # -*- Entry points: -*-
       [paste.paster_create_template]
-      framework = ez.templates:FrameworkTemplate
+      ez = ez.templates:EzProjectTemplate
       """,
       )
