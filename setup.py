@@ -19,7 +19,11 @@ A simple and compact yet powerful web framework for Google AppEngine.""",
       zip_safe=True,
       install_requires=[
           # -*- Extra requirements: -*-
+          "PasteScript>=1.3"
       ],
+      package_data = {
+        'ez':['pro']
+      },
       entry_points="""
       # -*- Entry points: -*-
       [paste.paster_create_template]

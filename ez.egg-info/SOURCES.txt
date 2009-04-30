@@ -1,6 +1,7 @@
 setup.cfg
 setup.py
 ez/__init__.py
+ez/templates.py
 ez.egg-info/PKG-INFO
 ez.egg-info/SOURCES.txt
 ez.egg-info/dependency_links.txt
